@@ -25,14 +25,6 @@ This game is compiled as a **Glulx story file** (`.gblorb` format) and requires 
 **Web/Cross-Platform:**
 - **Parchment** - Play in any web browser at [iplayif.com](https://iplayif.com)
 
-### To Modify the Game
-
-This game is built with **Inform 7**, a natural language programming system for interactive fiction.
-
-- **Inform 7 IDE** - [Download here](http://inform7.com/download/)
-- Edit the source file: `jejune_institute.inform`
-- Compile to generate new `.gblorb` files
-
 ## Game Overview
 
 ### Theme & Setting
